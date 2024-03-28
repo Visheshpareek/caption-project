@@ -1,2 +1,2 @@
 # caption-project
-Author - Vishesh Pareek
+Author - Vishesh pareek
